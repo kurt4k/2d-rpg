@@ -1,2 +1,2 @@
-# 2d-rpg
+# Endless tower defense
 demo
